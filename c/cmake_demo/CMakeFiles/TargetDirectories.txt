@@ -1,0 +1,2 @@
+/home/gothz/ccpp/cmake_demo/CMakeFiles/main.dir
+/home/gothz/ccpp/cmake_demo/src/CMakeFiles/text.dir

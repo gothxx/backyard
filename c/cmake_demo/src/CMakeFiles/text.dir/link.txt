@@ -1,0 +1,2 @@
+/usr/bin/ar cr libtext.a  CMakeFiles/text.dir/test.cpp.o
+/usr/bin/ranlib libtext.a

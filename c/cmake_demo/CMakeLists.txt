@@ -1,0 +1,8 @@
+PROJECT(main)
+cmake_minimum_required(VERSION 2.6)
+add_subdirectory(src)
+aux_source_directory(. DIR_SRCS)
+include_directories(src)
+link_directories(src)
+add_executable(main ${DIR_SRCS})
+target_link_libraries(main text)

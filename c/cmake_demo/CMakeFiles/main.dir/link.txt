@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/main.dir/mail.cpp.o  -o main  -Lsrc -rdynamic src/libtext.a -Wl,-rpath,src 
